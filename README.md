@@ -5,3 +5,6 @@ Repositorio para la practica de programacion avnxada hito 4
 
 Nombre : Gaston Diego Mancilla Zurita
 Carrera: Igenieria en Sistemas
+
+![Foto personal](images/fotoprogra.png)
+
